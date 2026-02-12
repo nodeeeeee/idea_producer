@@ -1,0 +1,13 @@
+pydantic>=2.0.0
+pathspec>=0.11.0
+xxhash>=3.0.0
+llama-index>=0.10.0
+llama-index-vector-stores-faiss>=0.1.0
+faiss-cpu>=1.7.0
+rank_bm25>=0.2.2
+llama-index-retrievers-bm25>=0.1.0
+llama-index-llms-openai>=0.1.0
+llama-index-embeddings-openai>=0.1.0
+httpx>=0.24.0
+typer[all]>=0.9.0
+pytest>=7.0.0

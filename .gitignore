@@ -1,0 +1,21 @@
+# Caches and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.idea/
+.vscode/
+
+# Project-specific data
+.idea-producer/
+data/
+runs/
+eval/
+api_key/
+tests/
+src/pilot_run_*.py
+
+# Environment
+venv/
+env/
+.env
